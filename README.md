@@ -16,7 +16,7 @@ trAIde is a cutting-edge trading analysis tool designed to provide real-time ins
 
     Clone the repository:
 
-git clone https://github.com/ayzstha/trAIde.git  
+git clone https://github.com/ayzstha/trAIde
 cd trAIde  
 
 Install dependencies:
