@@ -1,6 +1,7 @@
 trAIde - AI-Powered Trading Tool
 
 trAIde is a cutting-edge trading analysis tool designed to provide real-time insights into stock market movements. Powered by artificial intelligence, it delivers actionable entry and exit signals to help traders make informed decisions.
+
 🚀 Features
 
     Live Stock Data Visualization: Track real-time price movements on interactive charts.
@@ -15,17 +16,17 @@ trAIde is a cutting-edge trading analysis tool designed to provide real-time ins
 🛠 Setup
 
     Clone the repository:
+    
+        git clone https://github.com/ayzstha/trAIde
+        cd trAIde  
+    
+    Install dependencies:
+    
+        pip install -r requirements.txt  
+    
+    Run the application:
 
-git clone https://github.com/ayzstha/trAIde
-cd trAIde  
-
-Install dependencies:
-
-pip install -r requirements.txt  
-
-Run the application:
-
-    python app.py  
+        python app.py  
 
 📈 Usage
 
@@ -37,4 +38,4 @@ Run the application:
 
 🌟 License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+    This project is licensed under the MIT License. See the LICENSE file for more details.
